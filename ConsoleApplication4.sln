@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "fsphys", "ConsoleApplication4\fsphys.fsproj", "{A9AC6A4E-1F6F-4565-982C-EE5F579F65CC}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AngrySomething", "ConsoleApplication1\AngrySomething.fsproj", "{D9733E32-2593-494A-859A-E025D0E76047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9AC6A4E-1F6F-4565-982C-EE5F579F65CC}.Debug|x86.ActiveCfg = Debug|x86
+		{A9AC6A4E-1F6F-4565-982C-EE5F579F65CC}.Debug|x86.Build.0 = Debug|x86
+		{A9AC6A4E-1F6F-4565-982C-EE5F579F65CC}.Release|x86.ActiveCfg = Release|x86
+		{A9AC6A4E-1F6F-4565-982C-EE5F579F65CC}.Release|x86.Build.0 = Release|x86
+		{D9733E32-2593-494A-859A-E025D0E76047}.Debug|x86.ActiveCfg = Debug|x86
+		{D9733E32-2593-494A-859A-E025D0E76047}.Debug|x86.Build.0 = Debug|x86
+		{D9733E32-2593-494A-859A-E025D0E76047}.Release|x86.ActiveCfg = Release|x86
+		{D9733E32-2593-494A-859A-E025D0E76047}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
